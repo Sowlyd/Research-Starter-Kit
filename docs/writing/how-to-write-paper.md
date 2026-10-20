@@ -20,7 +20,7 @@
 
 - **Why D is better**
 
-- **Experimental comparsion against A, B, and C**
+- **Experimental comparison against A, B, and C**
 
 - **Strength and Weakness of D**
 

@@ -4,7 +4,7 @@
 
 ## Problem-driven vs Method-driven
 
-一般的研究过程可以分为Problem-driven Research 和 Method-drvien Research
+一般的研究过程可以分为Problem-driven Research 和 Method-driven Research
 
 简单来说，
 

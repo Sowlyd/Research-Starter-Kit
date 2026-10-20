@@ -12,7 +12,7 @@
 
 而不是<strong>@inproceedings{DBLP:conf/icml/ZhouL24</strong> 这种
 
-3. 修改正确的标识，**会议是@inproceedings，期刊是@arcticle**
+3. 修改正确的标识，**会议是@inproceedings，期刊是@Article**
 
 4. 删除publisher等无用字段，一般来说保留以下字段即可
 
@@ -52,7 +52,7 @@ title = {{LLM-SR:} {S}cientific Equation Discovery}
 
         2. **有些特殊会议没有届数而是年份，保证同一个会议的引用格式一致即可，例如：**
 
-            1. **EMLNP：{Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing}**
+            1. **EMNLP：{Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing}**
 
             2. **CVPR:  booktitle =  {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}**
 

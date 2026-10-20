@@ -18,7 +18,7 @@
 
     2. 理想情况下，这里要是一个“结构性问题”而不是一个“经验现象”，或者从经验现象出发，总结出来的结构性问题。
 
-    3. 比如，LLMs often fail in xxxx task，这就属于经验现象，给人一种修修补补、贡献不大的感觉，一下子就掉到了boarline区域。
+    3. 比如，LLMs often fail in xxxx task，这就属于经验现象，给人一种修修补补、贡献不大的感觉，一下子就掉到了borderline区域。
 
     4. 要给出一些更加本质的问题，从现象上升到机理，比如是理论有缺陷，泛化能力弱，还是稳健性不足？
 
@@ -36,11 +36,11 @@
 
 ## 优秀案例
 
-1. 下面这个例子取自论文Train for theWorst, Plan for the Best: Understanding Token Ordering in Masked Diffusions（ICML 2025 Outstanding Paper)，是一个从问题分析出发提出算法的文章。问题部分非常明确和本质“trade off complexity at training time with flexibility at inference time"，结论部分，非常有说服力：from 7% to 90%，超越了7倍参数量的模型
+1. 下面这个例子取自论文Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions（ICML 2025 Outstanding Paper)，是一个从问题分析出发提出算法的文章。问题部分非常明确和本质“trade off complexity at training time with flexibility at inference time"，结论部分，非常有说服力：from 7% to 90%，超越了7倍参数量的模型
 
 ![摘要优秀案例 1](../../assets/images/abstract/example-1.png)
 
-2. 下面这一个例子，取自ICML 2025 Oral Paper: Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies。属于非常常见的解决现有xxx方法xx问题的文章，跟大部分同学做的比较像。也是一句话确定背景，LLM推理加速很重要。然后用两句话指出问题，SD方法require the drafer and target models share the same vocabulary。然后一句话讲清楚本文工作，提出了一种不依赖shared-vocabulary constraint的方法，实验结果，回应LLM加速的问题，不依赖约束，实现了2.8倍的加速。
+2. 下面这一个例子，取自ICML 2025 Oral Paper: Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies。属于非常常见的解决现有xxx方法xx问题的文章，跟大部分同学做的比较像。也是一句话确定背景，LLM推理加速很重要。然后用两句话指出问题，SD方法require the drafter and target models share the same vocabulary。然后一句话讲清楚本文工作，提出了一种不依赖shared-vocabulary constraint的方法，实验结果，回应LLM加速的问题，不依赖约束，实现了2.8倍的加速。
 
 ![摘要优秀案例 2](../../assets/images/abstract/example-2.png)
 
