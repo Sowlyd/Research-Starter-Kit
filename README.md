@@ -67,11 +67,11 @@
 </details>
 
 <details open>
-<summary><strong>杂项</strong></summary>
+<summary><strong><a href="docs/misc/README.md">杂项</a></strong></summary>
 
-- 🧳 [学术会议参会指南](https://dy8q0bnq8y.feishu.cn/wiki/HDYdwMgrki0C35kR147cquf2nph?from=from_copylink)
-- 💰 [有哪些能申请的奖学金](https://dy8q0bnq8y.feishu.cn/wiki/SN0Dw5gvhidkMtkcmAYcXbUhnSh?from=from_copylink)
-- 🤖 [AI 辅助科研的一些tips](https://lamda3-nju.feishu.cn/wiki/Uf9fwnQFxiJS1akJZkPc87gFniq?from=from_copylink)
+- 🧳 [学术会议参会指南](docs/misc/conference-attendance.md)
+- 💰 [有哪些能申请的奖学金](docs/misc/scholarships.md)
+- 🤖 [AI 辅助科研的一些tips](docs/misc/ai-research-tips.md)
 
 </details>
 

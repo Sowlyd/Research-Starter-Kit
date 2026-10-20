@@ -209,4 +209,6 @@
 | 15 | IBM PhD Fellowship Awards | [https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program](https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program) | 7–9 月或 9–10 月，需看当年邀请 | 全球博士生；不是学生自荐，需 faculty 获得邀请后提名，提名教师需使用大学邮箱提交材料 | 美国高校奖金额为 40,000 美元；其他国家/地区通常为 6,000–25,000 美元，具体随学校所在国家/地区而定 |
 | 16 | ACM SIGHPC Computational & Data Science Fellowships | [https://www.acm.org/articles/bulletins/2020/march/sighpc-and-george-michael-fellowships-noms](https://www.acm.org/articles/bulletins/2020/march/sighpc-and-george-michael-fellowships-noms) | 3–5 月 | 已在读或即将进入 Master、PhD 或 equivalent 项目的研究生；通常要求尚未完成培养计划的一半；候选人应为女性或代表性不足群体成员 | PhD 获奖者最长可获 4 年支持；MS 获奖者最长可获 2 年支持 |
 
+[← 上一篇：学术会议参会指南](conference-attendance.md) · [返回目录](README.md) · [下一篇：AI辅助科研的一些Tips →](ai-research-tips.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/SN0Dw5gvhidkMtkcmAYcXbUhnSh?from=from_copylink)

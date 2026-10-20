@@ -118,4 +118,6 @@ Poster Session 是研究生最应该重视的环节。相比大会报告，Poste
 
 - [ ] 不要等别人来找你，主动交流本身就是研究训练的一部分。
 
+[返回目录](README.md) · [下一篇：有哪些能申请的奖学金？ →](scholarships.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/HDYdwMgrki0C35kR147cquf2nph?from=from_copylink)

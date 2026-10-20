@@ -130,4 +130,6 @@
 
 - 向它解释一些禁止行为的原因
 
+[← 上一篇：有哪些能申请的奖学金？](scholarships.md) · [返回目录](README.md)
+
 来源：[飞书原文](https://lamda3-nju.feishu.cn/wiki/Uf9fwnQFxiJS1akJZkPc87gFniq?from=from_copylink)
