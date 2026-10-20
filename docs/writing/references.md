@@ -90,4 +90,6 @@ title = {{LLM-SR:} {S}cientific Equation Discovery}
 
 - [ ] 是否有重复的文献
 
+[← 上一篇：如何写论文-Experiments](experiments.md) · [返回目录](README.md) · [下一篇：如何 Rebuttal →](rebuttal.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/A4q2wSnmRi91rykHke1cQIhnnAh?from=from_copylink)

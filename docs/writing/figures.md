@@ -286,4 +286,6 @@ Benchmark一般需要根据benchmark的工作量和特点，比如数据构建�
 >
 > 2. **版权合规**：商业或开源图标库在免费使用时，注意查看其开源协议（如 CC BY 3.0 需在文章致谢或 Caption 中注明出处，或选择完全开源的 CC0 资源），避免版权争议。
 
+[← 上一篇：如何写论文？](how-to-write-paper.md) · [返回目录](README.md) · [下一篇：如何写论文-Abstract →](abstract.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/OGpcw6zaRiQ6OwkNxfYcl7IKnBh?from=from_copylink)

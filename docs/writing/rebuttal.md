@@ -120,4 +120,6 @@
 
 1. Rebuttal指南：https://github.com/MLNLP-World/Paper-Rebuttal-Tips
 
+[← 上一篇：如何写论文-Reference](references.md) · [返回目录](README.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/M9d1wv5Efi2aG4kH4IDc5zqVnQh?from=from_copylink)

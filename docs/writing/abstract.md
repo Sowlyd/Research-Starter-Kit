@@ -48,4 +48,6 @@
 
 ![摘要优秀案例 3](../../assets/images/abstract/example-3.png)
 
+[← 上一篇：论文画图指南](figures.md) · [返回目录](README.md) · [下一篇：如何写论文-Introduction →](introduction.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/Tz2pwvxTyiBK0zkCVszcZmJ3nwd?from=from_copylink)

@@ -164,4 +164,6 @@ Overview 之后，正文应按模块展开方法细节。
 
 但要注意，Methods 中的 novelty 说明应当简洁，详细比较和效果证明应放在Experiments 中。
 
+[← 上一篇：如何写论文-Related Works](related-work.md) · [返回目录](README.md) · [下一篇：如何写论文-Experiments →](experiments.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/CtiAwh1eOiqOfCkPKVLc0WsxnZg?from=from_copylink)

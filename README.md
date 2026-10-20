@@ -53,16 +53,16 @@
 </details>
 
 <details open>
-<summary><strong>📄 <a href="https://dy8q0bnq8y.feishu.cn/wiki/NsK3wnWeiivKNukNJOqcd985nTY?from=from_copylink">如何写论文？</a></strong></summary>
+<summary><strong>📄 <a href="docs/writing/README.md">如何写论文？</a></strong></summary>
 
-- 📝 [论文画图指南](https://dy8q0bnq8y.feishu.cn/wiki/OGpcw6zaRiQ6OwkNxfYcl7IKnBh?from=from_copylink)
-- 📝 [如何写论文-Abstract](https://dy8q0bnq8y.feishu.cn/wiki/Tz2pwvxTyiBK0zkCVszcZmJ3nwd?from=from_copylink)
-- 📝 [如何写论文-Introduction](https://dy8q0bnq8y.feishu.cn/wiki/ULATwBu2MiLqqRkXxV6c2S7AnPd?from=from_copylink)
-- 📝 [如何写论文-Related Works](https://dy8q0bnq8y.feishu.cn/wiki/CLSAwWm6qifjwQkTd82czgMNnYf?from=from_copylink)
-- 📝 [如何写论文-Methods](https://dy8q0bnq8y.feishu.cn/wiki/CtiAwh1eOiqOfCkPKVLc0WsxnZg?from=from_copylink)
-- 📝 [如何写论文-Experiments](https://dy8q0bnq8y.feishu.cn/wiki/KHgSw2MkrikxlskGe5qclkdbn2c?from=from_copylink)
-- 📝 [如何写论文-Reference](https://dy8q0bnq8y.feishu.cn/wiki/A4q2wSnmRi91rykHke1cQIhnnAh?from=from_copylink)
-- 📝 [如何 Rebuttal](https://dy8q0bnq8y.feishu.cn/wiki/M9d1wv5Efi2aG4kH4IDc5zqVnQh?from=from_copylink)
+- 📝 [论文画图指南](docs/writing/figures.md)
+- 📝 [如何写论文-Abstract](docs/writing/abstract.md)
+- 📝 [如何写论文-Introduction](docs/writing/introduction.md)
+- 📝 [如何写论文-Related Works](docs/writing/related-work.md)
+- 📝 [如何写论文-Methods](docs/writing/methods.md)
+- 📝 [如何写论文-Experiments](docs/writing/experiments.md)
+- 📝 [如何写论文-Reference](docs/writing/references.md)
+- 📝 [如何 Rebuttal](docs/writing/rebuttal.md)
 
 </details>
 

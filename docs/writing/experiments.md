@@ -150,4 +150,6 @@ Analysis 的目标不是重复主表，而是帮助读者理解：
 
     - 常用弱化词：***slightly, somewhat, only approximate, a minor deficit, negligible, not significant, it should be noted that...***
 
+[← 上一篇：如何写论文-Methods](methods.md) · [返回目录](README.md) · [下一篇：如何写论文-Reference →](references.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/KHgSw2MkrikxlskGe5qclkdbn2c?from=from_copylink)

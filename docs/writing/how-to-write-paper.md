@@ -48,4 +48,6 @@
 
 - **Reference**
 
+[返回目录](README.md) · [下一篇：论文画图指南 →](figures.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/NsK3wnWeiivKNukNJOqcd985nTY?from=from_copylink)

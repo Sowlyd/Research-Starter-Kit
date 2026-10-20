@@ -198,4 +198,6 @@
 
 本文的主要贡献包括：第一，……；第二，……；第三，……。
 
+[← 上一篇：如何写论文-Abstract](abstract.md) · [返回目录](README.md) · [下一篇：如何写论文-Related Works →](related-work.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/ULATwBu2MiLqqRkXxV6c2S7AnPd?from=from_copylink)

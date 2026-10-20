@@ -145,4 +145,6 @@ Related Work 的目的更具体：系统梳理与本文最相关的研究脉络�
 
 ![MMMU 与已有基准的比较](../../assets/images/related-work/benchmark-comparison.png)
 
+[← 上一篇：如何写论文-Introduction](introduction.md) · [返回目录](README.md) · [下一篇：如何写论文-Methods →](methods.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/CLSAwWm6qifjwQkTd82czgMNnYf?from=from_copylink)
