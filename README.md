@@ -41,14 +41,14 @@
 ## 📖 手册：如何做科研与写论文
 
 <details open>
-<summary><strong>📚 <a href="https://dy8q0bnq8y.feishu.cn/wiki/LfR9woW57iWpQWkRKJhcoFF7ndb?from=from_copylink">如何做科研？</a></strong></summary>
+<summary><strong>📚 <a href="docs/research/README.md">如何做科研？</a></strong></summary>
 
-- ☁️ [如何找论文？](https://dy8q0bnq8y.feishu.cn/wiki/Co5awLsRiiuYAlkqHhCcwGBanub?from=from_copylink)
-- 📄 [如何读论文？](https://dy8q0bnq8y.feishu.cn/wiki/Ow8fw2HtEiixDgkWlkbckdvHnef?from=from_copylink)
-- 💡 [如何想 Idea？](https://dy8q0bnq8y.feishu.cn/wiki/MxYVwN0lEiv5HUkLEJccRJI3nTd?from=from_copylink)
-- 🎙️ [如何进行学术汇报](https://dy8q0bnq8y.feishu.cn/wiki/Wr0lwNhUdiMpt1kK6UmcgnWEnJI?from=from_copylink)
-- 🧭 [如何高效 Meeting](https://dy8q0bnq8y.feishu.cn/wiki/B8FBwaHe6ivi2skemtFc3lWbnmh?from=from_copylink)
-- 📝 [一些好的习惯](https://dy8q0bnq8y.feishu.cn/wiki/Bp2AwrSnAiGaH2khJaqczVXznwc?from=from_copylink)
+- ☁️ [如何找论文？](docs/research/finding-papers.md)
+- 📄 [如何读论文？](docs/research/reading-papers.md)
+- 💡 [如何想 Idea？](docs/research/developing-ideas.md)
+- 🎙️ [如何进行学术汇报](docs/research/academic-presentations.md)
+- 🧭 [如何高效 Meeting](docs/research/effective-meetings.md)
+- 📝 [一些好的习惯](docs/research/research-habits.md)
 
 </details>
 

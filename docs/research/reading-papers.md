@@ -36,4 +36,6 @@
 
 - **创造性思考**：**理解论文的研究问题，假设这个问题交给你来做，你会采用什么方法去做？你的解决方案和作者提出的解决方案各有什么优劣？这就是创造性思考。**
 
+[← 上一篇：如何找论文？](finding-papers.md) · [返回目录](README.md) · [下一篇：如何想 Idea？ →](developing-ideas.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/Ow8fw2HtEiixDgkWlkbckdvHnef?from=from_copylink)

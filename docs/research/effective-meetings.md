@@ -76,4 +76,6 @@
 
 3. 实验能力弱：不能很好的安排时间，快速的做可行方案的调研和试错。
 
+[← 上一篇：如何进行学术汇报](academic-presentations.md) · [返回目录](README.md) · [下一篇：一些好的习惯 →](research-habits.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/B8FBwaHe6ivi2skemtFc3lWbnmh?from=from_copylink)

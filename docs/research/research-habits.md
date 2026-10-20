@@ -74,4 +74,6 @@ Self-Motivated 是开展科研非常重要的能力。主动性意味着能够�
 
 同时，要**学会主动积极和导师、高年级师兄师姐反馈，大胆地、有分寸地表达自己，向导师提出自己的合理需求。**
 
+[← 上一篇：如何高效 Meeting](effective-meetings.md) · [返回目录](README.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/Bp2AwrSnAiGaH2khJaqczVXznwc?from=from_copylink)

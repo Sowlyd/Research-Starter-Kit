@@ -100,4 +100,6 @@ AI研究往往围绕模型、代码库、数据集和 Benchmark 形成研究生�
 
 可以尝试使用Zotero + Codex管理论文，可自行查找相关教程。
 
+[← 上一篇：如何做科研？](how-to-research.md) · [返回目录](README.md) · [下一篇：如何读论文？ →](reading-papers.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/Co5awLsRiiuYAlkqHhCcwGBanub?from=from_copylink)

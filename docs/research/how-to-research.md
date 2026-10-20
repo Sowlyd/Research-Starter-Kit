@@ -74,7 +74,7 @@ Research的大致过程可以总结为TPIC，本文档也是按照这些步骤�
 
 3. 对于一些代表性的论文要尝试进行代码复现，为后续的科研打好实验基础。
 
-关于具体如何找论文、读论文，可以进一步阅读：☁️ [如何找论文、读论文](https://dy8q0bnq8y.feishu.cn/wiki/Co5awLsRiiuYAlkqHhCcwGBanub)
+关于具体如何找论文、读论文，可以进一步阅读：☁️ [如何找论文、读论文](finding-papers.md)
 
 ### Problem
 
@@ -90,7 +90,7 @@ Research的大致过程可以总结为TPIC，本文档也是按照这些步骤�
 
 **宜“小题大做”、忌“大题小做”：应该把一个问题尽可能做的全面、而不是针对一个很宏观的大问题（比如持续学习的灾难性遗忘问题）给出浅尝辄止的方案。**
 
-更详细的内容可以参考：💡 [如何想Idea？](https://dy8q0bnq8y.feishu.cn/wiki/MxYVwN0lEiv5HUkLEJccRJI3nTd)
+更详细的内容可以参考：💡 [如何想Idea？](developing-ideas.md)
 
 ### Idea
 
@@ -102,7 +102,7 @@ Research的大致过程可以总结为TPIC，本文档也是按照这些步骤�
 
 相对来说，如果能够找到有价值的问题，想Idea不是一件特别难的事情，尤其是在AI时代，也可以借助大量的AI工具辅助科研。
 
-更详细的内容可以参考：💡 [如何想Idea？](https://dy8q0bnq8y.feishu.cn/wiki/MxYVwN0lEiv5HUkLEJccRJI3nTd)
+更详细的内容可以参考：💡 [如何想Idea？](developing-ideas.md)
 
 ### Concrete Work
 
@@ -131,5 +131,7 @@ Idea是否有效需要结果的支持，AI里面通常是理论分析与实验�
 - **有了好的idea问题就解决了一大半**
 
 - **还需要具体、坚实的实验验证**
+
+[返回目录](README.md) · [下一篇：如何找论文？ →](finding-papers.md)
 
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/LfR9woW57iWpQWkRKJhcoFF7ndb?from=from_copylink)

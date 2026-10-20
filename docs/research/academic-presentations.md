@@ -74,4 +74,6 @@
 
         4. **与这篇论文相关的、您觉得值得研究的一个后续想法是什么？**
 
+[← 上一篇：如何想 Idea？](developing-ideas.md) · [返回目录](README.md) · [下一篇：如何高效 Meeting →](effective-meetings.md)
+
 来源：[飞书原文](https://dy8q0bnq8y.feishu.cn/wiki/Wr0lwNhUdiMpt1kK6UmcgnWEnJI?from=from_copylink)
